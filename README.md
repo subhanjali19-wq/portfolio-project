@@ -36,6 +36,13 @@ After installing Codex, I needed to sign in with my OpenAI account.
 **Solution:**
 I completed the authentication process and verified that Codex was working correctly.
 
+### Issue 3: Git was not installed
+
+When I tried to clone the repository in Cursor, Git commands were not available.
+
+**Solution:**
+I installed Git for Windows, verified the installation using `git --version`, cloned the repository successfully, and confirmed it was synchronized with GitHub using `git status`.
+
 ## Outcome
 
 Successfully completed the required environment setup and verified that both Claude Code and OpenAI Codex are installed and operational.
